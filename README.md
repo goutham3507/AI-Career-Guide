@@ -1,4 +1,3 @@
-# AI-Career-Guide
 # AI Career Guide
 
 AI Career Guide is an intelligent career coaching application designed to provide personalized career advice, resume improvements, and job recommendations based on AI-driven insights. This project helps users navigate their professional journey with tailored suggestions and real-time industry trends.
