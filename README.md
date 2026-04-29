@@ -39,9 +39,7 @@ AI Career Guide is an intelligent career coaching application designed to provid
 ✅ **Expands Networking** – (Upcoming) LinkedIn integration for better job visibility.  
 ✅ **Scalability & Efficiency** – (Upcoming) Docker ensures seamless deployment.  
 
-## 🔗 Deployment & Live Demo
-- **GitHub Repository:** [Your Repo Link Here]  
-- **Live Demo:** [Your Deployment Link Here]  
+
 
 ## 📌 How to Contribute
 1. **Fork the repository** and clone it locally.  
